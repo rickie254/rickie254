@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing a new feature for our company's website using React.js and Node.js.<br><br>👯 I want to collaborate on an open-source project that helps people learn to program.<br><br>🤝 I’m looking for help optimizing the performance of a large database query for a project I'm working on.<br><br>🌱 I’m currently learning: how to use machine learning algorithms to improve the accuracy of predictive models.<br><br>💬 Ask me about my experience working with agile development methodologies.<br><br>⚡ Fun fact: A coin has nobody but a tail and a body.
+🔭 I’m currently developing a new feature for our company's website using React.js and Node.js.<br><br>👯 I want to collaborate on an open-source project that helps people learn to program.<br><br>🤝 I’m looking for help optimizing the performance of a large database query for a project I'm working on.<br><br>🌱 I’m currently learning: how to use machine learning algorithms to improve the accuracy of predictive models.<br><br>💬 Ask me about my experience working with agile development methodologies.<br><br>⚡ Fun fact: A coin has a tail and a head but has nobody 
 
 
 # 💻 Tech Stack:

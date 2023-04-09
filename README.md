@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my coding skills <br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with adding new skills <br>🌱 I’m currently learning coding <br>💬 Ask me about javascript <br>⚡ Fun fact A coin has no body but has a tail and a head 
 
 
 # 💻 Tech Stack:
